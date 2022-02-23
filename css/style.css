@@ -61,7 +61,7 @@ nav {
 }
 .first {
     margin-top: 0;
-     height: 680px;
+     min-height: 680px;
      background: url('../images/background.png') center center/cover no-repeat;
 }
 .first_descr {
